@@ -1,73 +1,52 @@
+
 {
    "files": [
 
 {
          "name": "AIS-TH.01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS-TH.01.ovpn"
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.01.ovpn"
+
       },
 
 {
          "name": "AIS-TH.02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS-TH.02.ovpn"
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.02.ovpn"
+
       },
 
 {
-         "name": "AIS-TH.03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS-TH.03.ovpn"
+         "name": "DTAC-TH.01",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-TH.01.ovpn"
+
       },
 
 {
-         "name": "AIS-TH.04",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS-TH.04.ovpn"
+         "name": "DTAC-TH.02",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-TH.02.ovpn"
+
       },
 
 {
-         "name": "TRUE-NOPRO-TH.01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TRUE-NOPRO-TH.01.ovpn"
-      },
+         "name": "TRUE-MOVE-TH.01",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-MOVE-TH.01.ovpn"
 
-
-{
-         "name": "TRUE-NOPRO-TH.02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TRUE-NOPRO-TH.02.ovpn"
-      },
-
-
-{
-         "name": "TRUE-NOPRO-TH.03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TRUE-NOPRO-TH.03.ovpn"
       },
 
 {
-         "name": "TRUE-NOPRO-TH.04",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TRUE-NOPRO-TH.04.ovpn"
-      },
+         "name": "TRUE-MOVE-TH.02",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-MOVE-TH.02.ovpn"
 
-{
-         "name": "DTAC-NOPRO-TH.01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC-NOPRO-TH.01.ovpn"
-      },
-
-{
-         "name": "DTAC-NOPRO-TH.02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC-NOPRO-TH.02.ovpn"
-      },
-
-{
-         "name": "DTAC-NOPRO-TH.03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC-NOPRO-TH.O3.ovpn"
-      }, 
-
-{
-         "name": "DTAC-NOPRO-TH.04",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC-NOPRO-TH.04.ovpn"
-      }
-
+ }
 
    ],
-"message":"Plesase ...
-Update Config Version 2
-   ",
+"message":"🚀လိုင္းေကာင္းတဲ့ဆာဗာမ်ားရယူရန္
+UPDATE ႏိွပ့္ေပးပါဗ်
+
+Update New Servers
+Servers 🇹🇭 Thailand
+
+ Config-Version-2👈",
    "title":"Do you want to update?",
    "version": 2
 }
+
