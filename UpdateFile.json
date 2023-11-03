@@ -36,14 +36,39 @@
          "name": "TRUE-MOVE-TH.02",
          "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-MOVE-TH.02.ovpn"
 
- }
+}
+
+{
+         "name": "DTAC-SHOP-TH.01",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-SHOP-TH.01.ovpn"
+
+      },
+
+{
+         "name": "DTAC-SHOP-TH.02",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-SHOP-TH.02.ovpn"
+
+      },
+
+{
+         "name": "TRUE-YT-TH.01",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-YT-TH.01.ovpn"
+
+      },
+
+{
+         "name": "TRUE-YT-TH.02",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-YT-TH.02.ovpn"
+
+}
 
    ],
 "message":"DOWNLOAD👇
 Update New Servers
 Servers 🇹🇭 Thailand
-Config-Version-3 👈",
+   Dtac - True 
+Config-Version-4 👈",
    "title":"Do you want to update?",
-   "version": 3
+   "version": 4
 }
 
