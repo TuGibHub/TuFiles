@@ -27,38 +27,26 @@
       },
 
 {
-         "name": "TRUE-MOVE-TH.01",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-MOVE-TH.01.ovpn"
+         "name": "TRUE-TH.01",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-TH.01.ovpn"
 
       },
 
 {
-         "name": "TRUE-MOVE-TH.02",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-MOVE-TH.02.ovpn"
+         "name": "TRUE-TH.02",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-TH.02.ovpn"
 
-},
+ }
 
 {
-         "name": "DTAC-SHOP-TH.01",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-SHOP-TH.01.ovpn"
+         "name": "TH.01",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TH.01.ovpn"
 
       },
 
 {
-         "name": "DTAC-SHOP-TH.02",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-SHOP-TH.02.ovpn"
-
-      },
-
-{
-         "name": "TRUE-YT-TH.01",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-YT-TH.01.ovpn"
-
-      },
-
-{
-         "name": "TRUE-YT-TH.02",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-YT-TH.02.ovpn"
+         "name": "TH.02",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TH.02.ovpn"
 
 }
 
