@@ -14,38 +14,8 @@
       },
 
 {
-         "name": "DTAC-TH.01",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-TH.01.ovpn"
-
-      },
-
-{
-         "name": "DTAC-TH.02",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/DTAC-TH.02.ovpn"
-
-      },
-
-{
-         "name": "TRUE-TH.01",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-TH.01.ovpn"
-
-      },
-
-{
-         "name": "TRUE-TH.02",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TRUE-TH.02.ovpn"
-
-},
-
-{
-         "name": "TH.01",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TH.01.ovpn"
-
-      },
-
-{
-         "name": "TH.02",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/TH.02.ovpn"
+         "name": "AIS-TH.03",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.03.ovpn"
 
 }
 
@@ -53,8 +23,8 @@
 "message":"DOWNLOAD👇
 Update New 
 Server 🇹🇭 Thailand
-   Dtac - True - Ais
-Config-Version-7 👈",
+  Ais FreeInternet
+Config-Version-8 👈",
    "title":"Do you want to update?",
-   "version": 7
+   "version": 8
 }
