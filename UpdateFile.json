@@ -14,8 +14,8 @@
       },
 
 {
-         "name": "AIS-TH.3",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.3.ovpn"
+         "name": "AIS-TH.03",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.03.ovpn"
    
 }
 
@@ -24,7 +24,7 @@
 Update New 
 Server 🇹🇭 Thailand
 Ais FreeInternet
-Config-Version-8 👈",
+Config-Version-9 👈",
    "title":"Do you want to update?",
-   "version": 8
+   "version": 9
 }
