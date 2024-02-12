@@ -2,29 +2,70 @@
    "files": [
 
 {
-         "name": "AIS-TH.01",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.01.ovpn"
+         "name": "Thailand.1",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Thailand.1.ovpn"
 
       },
 
 {
-         "name": "AIS-TH.02",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.02.ovpn"
+         "name": "Thailand.2",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Thailand.2.ovpn"
 
       },
 
 {
-         "name": "AIS-TH.03",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/AIS-TH.03.ovpn"
-   
+         "name": "Thailand.3",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Thailand.3.ovpn"
+
+      },
+
+{
+         "name": "United States",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/United States.ovpn"
+
+ },
+
+{
+         "name": "United Kingdom",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/United Kingdom.ovpn"
+
+      },
+
+{
+         "name": "Poland",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Poland.ovpn"
+
+ },
+
+{
+         "name": "Germany",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Germany.ovpn"
+
+      },
+
+{
+         "name": "France",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/France.ovpn"
+
+ },
+
+{
+         "name": "Canada",
+         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Canada.ovpn"
+
 }
 
    ],
-"message":"DOWNLOAD👇
-Update New 
-Server 🇹🇭 Thailand
-Ais FreeInternet
-Config-Version-9 👈",
+"message":"Click Update + DOWNLOAD👇
+Update New Servers
+🇹🇭Thailand
+🇬🇧United Kingdom
+🇺🇸️United States
+🇩🇪Germany
+🇫🇷️France
+🇨🇦Canada
+🇵🇱Poland 
+Config-Version-10 👈",
    "title":"Do you want to update?",
-   "version": 9
+   "version": 10
 }
