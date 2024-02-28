@@ -49,12 +49,6 @@
          "name": "Thailand.2",
          "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Thailand.2.ovpn"
 
-      },
-
-{
-         "name": "Thailand.3",
-         "url": "https://raw.githubusercontent.com/TuGibHub/TuFiles/main/Thailand.3.ovpn"
-
 }
 
 
@@ -68,7 +62,7 @@
 🇫🇷️France
 🇨🇦Canada
 🇵🇱Poland 
-Config-Version-11 👈",
+Config-Version-12 👈",
    "title":"Do you want to update?",
-   "version": 11
+   "version": 12
 }
